@@ -1,9 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 반갑습니다!</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 반갑습니다!</h2>
 
-<p>방문해 주셔서 감사합니다! </br> 저는 풀스택 개발자를 지향하는 자랑스러운<img src="https://t3.ftcdn.net/jpg/06/04/51/90/240_F_604519098_s2IJNkGckZcfLzqNen1F6IU4OsB0LoM2.jpg" width="13"/> 한국인 개발자 <strong>"고재훈"</strong>입니다. </p>
+<p align="center">방문해 주셔서 감사합니다! </br> 저는 풀스택 개발자를 지향하는 <img src="https://t3.ftcdn.net/jpg/06/04/51/90/240_F_604519098_s2IJNkGckZcfLzqNen1F6IU4OsB0LoM2.jpg" width="13"/> 한국인 개발자 <strong>"고재훈"</strong>입니다. </p>
 <h2>기술 트리</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" />
 </p>
 
-<a> 
+<a align="center"> 
     <a href="https://github.com/kojaehoon"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kojaehoon&theme=swift&show_icons=true&count_private=true&border_color=7F3FBF" height="192px" width="49.5%"/></a>
   <a href="https://github.com/kojaehoon"><img alt="Ko JaeHoon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kojaehoon&langs_count=4&layout=compact&border_color=7F3FBF" height="192px" width="49.5%"/></a>
   <br/>
