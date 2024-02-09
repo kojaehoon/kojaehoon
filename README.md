@@ -45,9 +45,11 @@
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" />
 </p>
 
-
-
-
+<a> 
+    <a href="https://github.com/kojaehoon"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kojaehoon&theme=swift&show_icons=true&count_private=true&border_color=7F3FBF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/kojaehoon"><img alt="Ko JaeHoon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kojaehoon&langs_count=4&layout=compact&border_color=7F3FBF" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
 
