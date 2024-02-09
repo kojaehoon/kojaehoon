@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" 
+ height="20"/>
   <br />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" />
@@ -42,3 +44,15 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139" />
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
