@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> HI!</h2>
 
-<p align="center">방문해 주셔서 감사합니다! </br> 저는 풀스택 개발자를 지향하는 <img src="https://t3.ftcdn.net/jpg/06/04/51/90/240_F_604519098_s2IJNkGckZcfLzqNen1F6IU4OsB0LoM2.jpg" width="13"/> 한국인 개발자 <strong>"고재훈"</strong>입니다. </p>
+<p>방문해 주셔서 감사합니다! </br> 저는 풀스택 개발자를 지향하는 <img src="https://t3.ftcdn.net/jpg/06/04/51/90/240_F_604519098_s2IJNkGckZcfLzqNen1F6IU4OsB0LoM2.jpg" width="13"/> 한국인 개발자 <strong>"고재훈"</strong>입니다. </p>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643510287/48530/write.gif?1643510287" width="25" height="25" /> About Me</h2>
 
