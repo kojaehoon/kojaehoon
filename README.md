@@ -1,8 +1,20 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> HI!</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hi!</h2>
 
-<p>방문해 주셔서 감사합니다! </br> 저는 풀스택 개발자를 지향하는 <img src="https://t3.ftcdn.net/jpg/06/04/51/90/240_F_604519098_s2IJNkGckZcfLzqNen1F6IU4OsB0LoM2.jpg" width="13"/> 한국인 개발자 <strong>"고재훈"</strong>입니다. </p>
+<p>방문해 주셔서 감사합니다! </br> 저는 풀스택 개발자를 지향하는 <img src="https://t3.ftcdn.net/jpg/06/04/51/90/240_F_604519098_s2IJNkGckZcfLzqNen1F6IU4OsB0LoM2.jpg" width="13"/> 한국인 개발자 <strong>"고재훈"</strong>입니다. </p><br />
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643510287/48530/write.gif?1643510287" width="25" height="25" /> About Me</h2>
+
+<p>
+ <img align="right" width="320" height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+</p>
+<br />
+<br />
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1703239084/83641/booksq.gif?1703239084" height="25" width="25" /> Skills Tech</h2>
 <p align="center">
