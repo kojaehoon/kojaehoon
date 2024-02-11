@@ -10,7 +10,7 @@
  <img align="right" width="320" height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding gif" />
   
  <img src="https://emojis.slackmojis.com/emojis/images/1643514120/795/cool.gif?1643514120" width="20" height="20" align="center" /> &emsp; 저는 프로그래밍 하는 것을 재미있어해요. <br/><br/>
- <img src="https://emojis.slackmojis.com/emojis/images/1643514239/2071/good_job.gif?1643514239" width="20" height="20" align="center" /> &emsp; 저는 새로운 아이디어를 내는 것을 잘해.<br/><br/>
+ <img src="https://emojis.slackmojis.com/emojis/images/1643514239/2071/good_job.gif?1643514239" width="20" height="20" align="center" /> &emsp; 저는 새로운 아이디어를 내는 것을 잘해요.<br/><br/>
  <img src="https://emojis.slackmojis.com/emojis/images/1695152971/69167/hearttap.gif?1695152971" width="20" height="20" align="center" /> &emsp; 저는 새로운 기술을 배우는 것도 좋아해요.<br/><br/>
  <img src="https://emojis.slackmojis.com/emojis/images/1643514128/870/mail.gif?1643514128" width="20" height="20" align="center" /> &emsp; 재밌을 거에요! kojae0103@naver.com<br/><br/>
 
